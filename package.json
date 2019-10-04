@@ -50,6 +50,7 @@
     ]
   },
   "scripts": {
+    "lint": "eslint \"./**/*.js\"",
     "test": "node ./test/runTest.js"
   },
   "devDependencies": {
